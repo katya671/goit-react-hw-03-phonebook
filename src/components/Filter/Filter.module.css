@@ -1,0 +1,17 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto 20px;
+}
+
+.filter label {
+  margin-bottom: 5px;
+  color: #555555;
+}
+
+.filter input {
+  padding: 10px;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+}
